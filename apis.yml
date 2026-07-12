@@ -48,6 +48,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/profluent-bio-domain-security.yml
   - type: Website
     url: https://www.profluent.bio
   - type: Platform
@@ -112,6 +114,8 @@ common:
     url: https://www.profluent.bio/privacy
   - type: TermsOfService
     url: https://www.profluent.bio/terms
+  - type: Blog
+    url: https://www.profluent.bio/media
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
