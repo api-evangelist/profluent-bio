@@ -23,6 +23,18 @@ description: >-
   Profluent-AI GitHub organization (model weights and inference code), the
   Protein2PAM web tool, and partnership engagements.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: true
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - pricing
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
@@ -59,6 +71,8 @@ modified: '2026-05-24'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: IssueTracker
+    url: https://github.com/Profluent-AI/OpenCRISPR/issues
   - type: DomainSecurity
     url: security/profluent-bio-domain-security.yml
   - type: Website
