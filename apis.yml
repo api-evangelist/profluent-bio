@@ -24,16 +24,23 @@ description: >-
   Protein2PAM web tool, and partnership engagements.
 type: Index
 deliveryModel:
-  model: unknown
+  model: saas
+  license_evidence:
+    not_product:
+    - profluent-ai/crispr-cas-atlas
+    - profluent-ai/e1
+    - profluent-ai/opencrispr
+    - profluent-ai/progen3
+    - profluent-ai/proselm-public
   open_source: unknown
   commercial: true
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
+  label: Hosted service · you call their endpoint
   confidence: low
   source:
   - pricing
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: unknown
