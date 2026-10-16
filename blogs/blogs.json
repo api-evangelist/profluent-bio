@@ -2,21 +2,21 @@
   "repo": "profluent-bio",
   "feeds": [
     {
-      "source": "https://www.profluent.bio/terms",
-      "feed_url": "https://www.profluent.bio/terms",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://www.profluent.bio/media",
       "feed_url": "https://www.profluent.bio/media",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.profluent.bio/terms",
+      "feed_url": "https://www.profluent.bio/terms",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 7,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
